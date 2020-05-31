@@ -33,6 +33,7 @@ class HomeView: UIViewController, UINavigationBarDelegate {
         }
         
         naviItem.leftBarButtonItem = UIBarButtonItem(image: UIImage(named: "menu_images"), style: .plain, target: self, action: #selector(addTap))
+        naviItem.rightBarButtonItem = UIBarButtonItem(image: UIImage(named: "icon_images"), style: .plain, target: self, action: #selector(addTap))
         
     }
     
