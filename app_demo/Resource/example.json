@@ -1,0 +1,103 @@
+{
+  "data": {
+    "highlights": [
+      {
+        "id": "1",
+        "title": "Sale",
+        "highlight_type": "flash",
+        "started_at": "2020-05-20T00:00:00.000+07:00",
+        "ended_at": "2020-05-26T23:45:00.000+07:00",
+        "image_url": "https://via.placeholder.com/150",
+        "character": null,
+        "products": [
+          {
+            "id": "1",
+            "title": "Lorem",
+            "point": 79,
+            "description": "Lorem>",
+            "term": "",
+            "product_type": "store",
+            "is_favorite": false,
+            "started_at": "2020-04-01T00:00:00.000+07:00",
+            "ended_at": "2020-12-31T23:45:00.000+07:00",
+            "image_urls": ["https://via.placeholder.com/150"],
+            "count": 0,
+            "discount_point": 39,
+            "redeem_survey_id": null,
+            "use_survey_id": null,
+            "url": "",
+            "company": {
+              "id": "1",
+              "name": "Test",
+              "description": "Lorem",
+              "image_urls": ["https://via.placeholder.com/150"],
+              "image_mobile_urls": ["https://via.placeholder.com/150g"]
+            },
+            "is_shown": true,
+            "is_flash": false,
+            "flash_started_at": null,
+            "similar_products": []
+          }
+        ],
+        "earns": []
+      }
+    ],
+    "banners": [
+      {
+        "id": "1",
+        "title": "Test",
+        "image_banner_url": "https://via.placeholder.com/150",
+        "image_mobile_banner_url": "https://via.placeholder.com/150",
+        "target_type": "intro_page",
+        "target_id": "af0ba55f-e992-4bca-878b-286089a95455",
+        "order": null
+      }
+    ],
+    "merchants": [
+      {
+        "id": "1",
+        "name": "Agoda",
+        "description": "<p><br></p>",
+        "image_urls": ["https://via.placeholder.com/150"],
+        "image_mobile_urls": ["https://via.placeholder.com/150"]
+      }
+    ],
+    "earns": [
+      {
+        "id": "a",
+        "title": "10p",
+        "description": null,
+        "term": "<p><br></p>",
+        "range": null,
+        "image_urls": ["https://via.placeholder.com/150"],
+        "is_favorite": false,
+        "latitude": null,
+        "longitude": null,
+        "company": {
+          "id": "1",
+          "name": "Agoda",
+          "description": "<p><br></p>",
+          "image_urls": ["https://via.placeholder.com/150"],
+          "image_mobile_urls": ["https://via.placeholder.com/150"]
+        }
+      }
+    ],
+    "characters": [],
+    "news": [
+      {
+        "id": "3f84bc3e-06a6-4035-b6f3-752108a8fd2d",
+        "title": "🙏😁 เพ่ต่ายขายประกันโควิท-19 จ่ายเบี้ยหลักร้อย ตรวจเจอรับ 50,000 บ.",
+        "description": "Lorem",
+        "image_url": "https://via.placeholder.com/150",
+        "image_mobile_url": "https://via.placeholder.com/150",
+        "created_at": "2020-04-02T14:50:29.830+07:00"
+      }
+    ]
+  },
+  "meta": {
+    "pagination": {},
+    "version": 1,
+    "code": "0000",
+    "current_time": "2020-05-22T16:19:43.537+07:00"
+  }
+}
